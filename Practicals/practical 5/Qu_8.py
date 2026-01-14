@@ -5,7 +5,7 @@ temp = num
 reminder = 0
 result = 0
 
-while(temp != 0):
+while temp != 0:
     reminder = temp % 10
     result = result + reminder
     temp = temp // 10
