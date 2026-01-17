@@ -1,4 +1,4 @@
-# Write a program to swap the value of two variables.
+## Write a program to swap the value of two variables.
 
 a = int(input("Enter first_num : "))
 b = int(input("Enter second_num : "))
