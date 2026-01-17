@@ -10,5 +10,3 @@ a = b
 b = a
 
 print("After Swap: First_num = ", a, " Second_num = ", b)
-
-
