@@ -1,6 +1,6 @@
 # Write  a  Python  program  to  perform  following  operations  on  set:  intersection  of sets, union of sets, set difference, symmetric difference, clear a set.
 
-yash = {'ai','tech','MAANG','Family','curiosity'}
+yash = {'ai','tech','FAANG','Family','curiosity'}
 sr = {'chocolate','Family','Business','traveling','health'}
 
 # Union
